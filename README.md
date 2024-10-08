@@ -1,4 +1,4 @@
-##E-Commerce Backend API
+E-Commerce Backend API
 
 This project is a backend server for an e-commerce platform built using Node.js and Express. It handles user authentication, product management, and order processing. The server also supports Cross-Origin Resource Sharing (CORS) and uses cookies for session management.
 
@@ -12,10 +12,13 @@ dotenv: Loads environment variables from a .env file.
 CORS: Middleware to allow Cross-Origin Resource Sharing.
 cookie-parser: Parses cookies in HTTP requests.
 
-#Prerequisites
-Node.js installed on your system.
+Prerequisites
+Node.js installed on your system. 
+
 MongoDB instance running locally or on the cloud.
+
 npm (Node package manager).
+
 Installation
 Clone the repository:
 bash
