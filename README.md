@@ -1,4 +1,4 @@
-E-Commerce Backend API
+##E-Commerce Backend API
 
 This project is a backend server for an e-commerce platform built using Node.js and Express. It handles user authentication, product management, and order processing. The server also supports Cross-Origin Resource Sharing (CORS) and uses cookies for session management.
 
@@ -11,9 +11,8 @@ Mongoose: ODM (Object Data Modeling) library for MongoDB.
 dotenv: Loads environment variables from a .env file.
 CORS: Middleware to allow Cross-Origin Resource Sharing.
 cookie-parser: Parses cookies in HTTP requests.
-Setup Instructions
 
-Prerequisites
+#Prerequisites
 Node.js installed on your system.
 MongoDB instance running locally or on the cloud.
 npm (Node package manager).
